@@ -29,7 +29,7 @@
       <h2>Assignments</h2>
       <ul>
         <li><a href="https://github.com/PRITESHJGUPTA/HTML-CSS-COURSE/tree/main/HTML" target="_black">Assignment 1: Basic HTML Structure</a></li>
-        <li><a href="#">Assignment 2: CSS Basics</a></li>
+        <li><a href="https://github.com/PRITESHJGUPTA/HTML-CSS-COURSE/tree/main/CSS%20BASICS" target="_blank">Assignment 2: CSS Basics</a></li>
         <li><a href="#">Assignment 3: Flexbox Layout</a></li>
         <!-- Add more assignments here -->
       </ul>
